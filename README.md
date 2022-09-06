@@ -1,4 +1,4 @@
-#### My First Repository
+# My First Repository
 
 Who's That Pokemon ?
 
