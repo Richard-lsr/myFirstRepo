@@ -8,11 +8,11 @@
 
 Voici mon premier code en GO :
 
-`package main
+`package main`
 
-import "fmt"
+`import "fmt"`
 
 func main() {
 
 	fmt.Println("Hello World")
-}`
+}
